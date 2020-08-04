@@ -1,0 +1,2 @@
+camera_position_X_Y_Z
+18 10 30

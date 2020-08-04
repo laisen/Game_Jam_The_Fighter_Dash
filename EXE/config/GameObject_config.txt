@@ -1,0 +1,2 @@
+meshName|friendlyName|positionX_Y_Z|rotationX_Y_Z(degrees)|scale|diffuseR_G_B_Transparency|physicsShapeType|texture_0|texture_1|blendMode
+groundMesh ground 0 0 0 0 0 0 1 1 1 1 1 UNKNOWN sandyground1_Base_Color.bmp sandyground1_Normal-unity.bmp BASE

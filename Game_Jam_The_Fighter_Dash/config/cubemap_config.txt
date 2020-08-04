@@ -1,0 +1,7 @@
+assets/textures/cubemaps/
+posx.bmp
+negx.bmp
+posy.bmp
+negy.bmp
+posz.bmp
+negz.bmp

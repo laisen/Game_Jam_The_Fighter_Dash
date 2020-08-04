@@ -1,0 +1,11 @@
+assets/textures
+White.bmp gammaCorrectionTrue
+Half_grey.bmp gammaCorrectionTrue
+default_normal.bmp gammaCorrectionFalse
+Ch43_1001_Diffuse.bmp gammaCorrectionTrue
+Ch43_1001_Normal.bmp gammaCorrectionFalse
+dust.bmp gammaCorrectionTrue
+sandyground1_Base_Color.bmp gammaCorrectionTrue
+sandyground1_Normal-unity.bmp gammaCorrectionFalse
+Obstacle_Albedo.bmp gammaCorrectionTrue
+Obstacle_Normal.bmp gammaCorrectionFalse

@@ -1,0 +1,4 @@
+quadMesh assets/models/1x1_Quad_1_Sided_xyz_n_uv.ply
+lowObstacleMesh assets/models/lowObstacle.fbx
+highObstacleMesh assets/models/highObstacle.fbx
+groundMesh assets/models/ground.fbx
